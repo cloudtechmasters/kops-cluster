@@ -44,3 +44,5 @@ For the above above command, you might see validation failed error initially whe
 
 # 10. Check nodes of the cluster
 	kubectl get nodes
+# Clean-Up
+	kops delete cluster --name=cloudtechmasters.ml --yes
