@@ -1,5 +1,5 @@
 # Kubernetes on AWS using Kops
-# 1. Launch Linux EC2 instance in AWS (Kubernetes Client) or any linux machine
+# 1. Launch Linux EC2 instance in AWS (Kubernetes Client) or any linux machine and testing scm checkout
 # 2. Create and attach IAM role to EC2 Instance.
 	Kops need permissions to access
 	  S3
